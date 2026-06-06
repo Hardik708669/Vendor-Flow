@@ -234,5 +234,3 @@ npm install
 If Prisma cannot connect, verify that MySQL is running and that `DATABASE_URL` points to the correct database.
 
 If the frontend cannot reach the backend, confirm that `VITE_API_URL` matches the backend URL and that `FRONTEND_URL` is allowed by the backend CORS configuration.
-
-this project belongs to hardik
